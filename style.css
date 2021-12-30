@@ -1,0 +1,32 @@
+body{
+    background-color: goldenrod;
+}
+h1{
+    color: blue;
+    background-color: cornsilk;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+#score{
+    font-size: 25px;
+    margin-left: 20px;
+    float: left;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 10px;
+}
+#sketch_drawn{
+    color: red;
+    font-size: 30px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
